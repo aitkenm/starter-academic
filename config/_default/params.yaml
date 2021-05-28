@@ -20,13 +20,25 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: 'madison.aitken@mail.utoronto.ca'
-
+email: madison@example.org
+phone: 888 888 88 88
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: '@m_aitken'
-    link: 'https://twitter.com/m_aitken'
+    name: DM Me
+    link: 'https://twitter.com/Twitter'
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'skype:echo123?call'
+  - icon: keybase
+    icon_pack: fab
+    name: Chat on Keybase
+    link: 'https://keybase.io/'
+  - icon: comments
+    icon_pack: fas
+    name: Discuss on Forum
+    link: 'https://discourse.gohugo.io'
 
 # Site header
 
