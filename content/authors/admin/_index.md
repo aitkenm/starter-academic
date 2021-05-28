@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Madison Aitken
+title: Madison Aitken, Ph.D., C.Psych.
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ interests:
 - Transdiagnostic models of psychopathology
 - Improving psychotherapy outcomes
 - Parent-adolescent relationships
-- Adolescent depression
+- Adolescent depression and internalizing problems
 
 # Education to show in About widget
 education:
@@ -67,7 +67,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "madison.aitken@mail.utoronto.ca"
+# email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
