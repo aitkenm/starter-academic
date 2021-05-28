@@ -21,17 +21,11 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: 'madison.aitken@mail.utoronto.ca'
- address:
-  street: 80 Workman Way
-  city: Toronto
-  region: 'ON'
-  postcode: 'M6J 1H4'
-  country: Canada
-  country_code: CA
+
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: @m_aitken
+    name: '@m_aitken'
     link: 'https://twitter.com/m_aitken'
 
 # Site header
